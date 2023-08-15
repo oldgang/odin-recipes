@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#main-title {
+    font-weight: 1000;
+    text-align: center;
+}
+
+#chef {
+    width: 300px;
+    height: auto;
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+/* #recipes-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+#recipes-list {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+ol, ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
